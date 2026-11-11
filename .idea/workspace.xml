@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="075e2620-374a-453e-9005-2a9d0ae9072d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.00000000247487" />
+      <entry key="MS500" value="1.0189984153901175" />
+      <entry key="S2" value="1.399248956862115" />
+      <entry key="S5" value="2.062554217764827" />
+      <entry key="S10" value="3.012701005363245" />
+      <entry key="S30" value="6.492334011297466" />
+      <entry key="S60" value="9.785434779335098" />
+      <entry key="M2" value="12.658732164440453" />
+      <entry key="M5" value="15.122607276260084" />
+      <entry key="M10" value="18.240101018041724" />
+      <entry key="M15" value="24.20567685763157" />
+      <entry key="M30" value="48.53926794678892" />
+      <entry key="H1" value="85.55534099654831" />
+      <entry key="H2" value="119.78283839072792" />
+      <entry key="H4" value="143.42860993508845" />
+      <entry key="D1" value="167.59715001567042" />
+      <entry key="W1" value="172.2156259459536" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.2242005133073315E-150" />
+      <entry key="S10" value="1.84078239957179E-75" />
+      <entry key="S30" value="1.9306490202377505E-25" />
+      <entry key="S60" value="8.513140297263597E-13" />
+      <entry key="M2" value="2.746774085823439E-6" />
+      <entry key="M5" value="0.02902824744017424" />
+      <entry key="M10" value="0.7696001910971637" />
+      <entry key="M15" value="2.584089589997501" />
+      <entry key="M30" value="10.035207337778504" />
+      <entry key="H1" value="21.332291153941064" />
+      <entry key="H2" value="31.77122575734396" />
+      <entry key="H4" value="38.98225107921471" />
+      <entry key="D1" value="46.35244579686794" />
+      <entry key="W1" value="47.76081286548633" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.16608572875839758" />
+      <entry key="MS500" value="0.7165384418351031" />
+      <entry key="S2" value="1.3070248730931318" />
+      <entry key="S5" value="1.9981890420613972" />
+      <entry key="S10" value="2.9286660281301953" />
+      <entry key="S30" value="6.37132007876653" />
+      <entry key="S60" value="9.67889621382338" />
+      <entry key="M2" value="12.585199851722498" />
+      <entry key="M5" value="15.114991118518214" />
+      <entry key="M10" value="18.984086999533424" />
+      <entry key="M15" value="26.762221927460818" />
+      <entry key="M30" value="58.53834875874945" />
+      <entry key="H1" value="106.85180898377718" />
+      <entry key="H2" value="151.52770467719841" />
+      <entry key="H4" value="182.39471681329925" />
+      <entry key="D1" value="213.94639493686267" />
+      <entry key="W1" value="219.97596754117137" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LYVRr7GUwBtUqU6dJabEdkvqwY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Dart Command Line App.Sorting Three Floating Numbers.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.first_project.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.leapyear.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.negative.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.switch.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.ternary operator.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.value.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.volume.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.vote.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.vowel.dart.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Dart Command Line App.negative.dart">
+    <configuration name="first_project.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/first_project.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="negative.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/negative.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="switch.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/switch.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ternary operator.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/ternary operator.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="value.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/value.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="volume.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/volume.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in first_project" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <option name="filePath" value="$PROJECT_DIR$" />
+      <option name="scope" value="FOLDER" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.negative.dart" />
+        <item itemvalue="Dart Command Line App.volume.dart" />
+        <item itemvalue="Dart Command Line App.switch.dart" />
+        <item itemvalue="Dart Command Line App.value.dart" />
+        <item itemvalue="Dart Command Line App.ternary operator.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="075e2620-374a-453e-9005-2a9d0ae9072d" name="Changes" comment="" />
+      <created>1793630985839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793630985839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
